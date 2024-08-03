@@ -12,7 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 namespace Mai_Văn_Minh_pd09444_SD18302_DuAnQuanLyThoiKhoaBieu
 {
     public partial class TrangDangNhap : Form
-    {
+    {//
         public TrangDangNhap()
         {
             InitializeComponent();
